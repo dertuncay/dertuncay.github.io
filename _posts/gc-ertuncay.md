@@ -8,7 +8,7 @@ categories:
 tags:
   - article
   - geoscience and communication
-  - Ekşi Sözlük
+  - Eksi Sozluk
 ---
 
 Web-based macroseismic intensity study in Turkey – entries on Ekşi Sözlük\\
