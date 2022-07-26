@@ -2,7 +2,7 @@
 title: "Web-based macroseismic intensity study in Turkey – entries on Ekşi Sözlük"
 share: false
 related: false
-last_modified_at: 2022-07-26T17:45:00
+last_modified_at: 2022-07-26T00:00:00
 categories:
   - Work
 tags:
