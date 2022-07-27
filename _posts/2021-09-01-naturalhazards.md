@@ -38,4 +38,4 @@ Bibtex
 }
 
 The article is available [here](https://link.springer.com/article/10.1007/s11069-021-04755-0).\\
-Github repository of the study s is [here](https://github.com/dertuncay/Pulse-Probability).
+Github repository of the study is [here](https://github.com/dertuncay/Pulse-Probability).
