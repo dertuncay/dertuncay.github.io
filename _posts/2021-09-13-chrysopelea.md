@@ -1,13 +1,14 @@
 ---
-title: "Chrysopelea - A Python GPS Analysis Tool"
+title: "Identification of Near-Fault Impulsive Signals and Their Initiation and Termination Positions with Convolutional Neural Networks"
 share: false
 related: false
 last_modified_at: 2022-05-16T19:30:00
 categories:
-  - Repo
+  - Work
 tags:
-  - coding
-  - github
+  - article
+  - machine learning
+  - strong motion
 ---
 
 [Chrysopelea](https://2021.spaceappschallenge.org/challenges/statements/identifying-risk-with-science-communities/teams/team-carso/project) is a simple script for applying LSE to GPS data developed for the final project of the 2021 ICTP diploma/PhD Space Geodesy course.
