@@ -11,7 +11,7 @@ tags:
   - natural hazards
 ---
 
-Determination of near-fault impulsive signals with multivariate naïve Bayes method
+Determination of near-fault impulsive signals with multivariate naïve Bayes method\\
 **Deniz Ertuncay**, Giovanni Costa
 
 ---
