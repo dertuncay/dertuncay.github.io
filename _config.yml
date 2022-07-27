@@ -169,6 +169,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/deniz-ertuncay-7645a965"
+    - label: "CV"
+      icon: "fas fa-briefcase"
+      url: "https://github.com/dertuncay/dertuncay.github.io/blob/master/assets/img/Ertuncay_Deniz_CV.pdf"
 
 
 # Reading Files
