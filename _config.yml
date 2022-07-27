@@ -150,7 +150,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sffornasari"
+      url: "https://github.com/dertuncay"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -165,10 +165,10 @@ footer:
       url: "https://seisram.units.it"
     - label: "ORCID"
       icon: "fab fa-orcid"
-      url: "https://orcid.org/0000-0001-8855-4478"
+      url: "https://orcid.org/0000-0003-1404-4365"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/simone-francesco-fornasari"
+      url: "https://www.linkedin.com/in/deniz-ertuncay-7645a965"
 
 
 # Reading Files
