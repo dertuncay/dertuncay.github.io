@@ -27,5 +27,14 @@ A strong motion monitoring network records data that provide an excellent way to
 
 **Bibtex** 
 
-> 
+> @article{costa2022near,
+  title={Near-Real-Time Strong Motion Acquisition at National Scale and Automatic Analysis},
+  author={Costa, Giovanni and Brondi, Piero and Cataldi, Laura and Cirilli, Stefano and Ertuncay, Deniz and Falconer, Piero and Filippi, Luisa and Fornasari, Simone Francesco and Pazzi, Veronica and Turpaud, Philippe},
+  journal={Sensors},
+  volume={22},
+  number={15},
+  pages={5699},
+  year={2022},
+  publisher={MDPI}
+}
 
