@@ -11,7 +11,7 @@ tags:
   - ran background noise
 ---
 
-Seismic background noise levels in the Italian strong-motion network\\
+Seismic background noise levels in the Italian strong-motion network \\
 Simone Francesco Fornasari, **Deniz Ertuncay**, Giovanni Costa \\
 
 ---
