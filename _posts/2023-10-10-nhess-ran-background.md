@@ -12,7 +12,7 @@ tags:
 ---
 
 Seismic background noise levels in the Italian strong-motion network\\
-Simone Francesco Fornasari, **Deniz Ertuncay**, Giovanni Costa\\
+Simone Francesco Fornasari, **Deniz Ertuncay**, Giovanni Costa \\
 
 ---
 
