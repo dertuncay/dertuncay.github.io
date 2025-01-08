@@ -11,7 +11,7 @@ tags:
   - eksi sozluk earthquake
 ---
 
-Deep learning based earthquake and vehicle detection algorithm\\
+Web-based macroseismic intensity study in Turkey – entries on Ekşi Sözlük\\
 **Deniz Ertuncay**, Laura Cataldi, Giovanni Costa
 
 ---
