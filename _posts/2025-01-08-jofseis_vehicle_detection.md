@@ -12,7 +12,7 @@ tags:
 ---
 
 Deep learning based earthquake and vehicle detection algorithm\\
-**Deniz Ertuncay**, Andrea de Lorenzo, Giovanni Costa\\
+**Deniz Ertuncay**, Andrea de Lorenzo, Giovanni Costa
 
 ---
 
