@@ -26,7 +26,6 @@ Italy has been majorly affected by the COVID-19 pandemic. The government declare
 **Bibtex** 
 
 > @ARTICLE{10.3389/feart.2024.1507241,
-
 AUTHOR={Ertuncay, Deniz  and Fornasari , Simone Francesco  and Costa , Giovanni },
 TITLE={Effect of the COVID-19 lockdown on background noise levels in Italian strong motion network},
 JOURNAL={Frontiers in Earth Science},
