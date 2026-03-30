@@ -2,7 +2,7 @@
 title: "The assessment of traffic-induced vibrations in urban areas by means of cost-effective sensors: a case study for a historic building in Trieste, north-eastern Italy"
 share: false
 related: false
-last_modified_at: 2024-04-01T20:13:00
+last_modified_at: 2026-03-30T20:13:00
 categories:
   - Work
 tags:
